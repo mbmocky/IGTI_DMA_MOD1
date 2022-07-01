@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IGTI Android P2</string>
+    <string name="insira_uma_mensagem">Insira uma Mensagem</string>
+    <string name="enviar">Enviar</string>
+</resources>
